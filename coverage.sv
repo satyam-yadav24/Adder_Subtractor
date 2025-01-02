@@ -1,0 +1,1 @@
+class coverage extends uvm_subscriber
